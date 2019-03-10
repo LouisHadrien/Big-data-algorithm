@@ -1,4 +1,4 @@
-# Big-data-algithm
+# Big-data-algorithm techniques and platforms
 
 This file contains 2 assignments from the big data algorithms techniques and platforms.
 The fisrt one is about the implementation of some map/reduce tasks (join between 2 datasets and matrix multiplication) using hadoop on cloudera.
